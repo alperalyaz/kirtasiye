@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alperalyaz.github.io/kirtasiye/sitemap.xml
